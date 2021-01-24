@@ -1,0 +1,14 @@
+{
+  "name": "@fjon/sample",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "fjon/sample",
+  "main": "index.js",
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "fjon"
+  ]
+}
